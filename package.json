@@ -1,0 +1,14 @@
+{
+  "name": "crypto-politics",
+  "version": "0.0.1",
+  "description": "crypto realpolitik book",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  },
+  "keywords": ["crypto", "politics"],
+  "author": "sam bacha",
+  "license": "CC-SA-2.5"
+}
